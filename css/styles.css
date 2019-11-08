@@ -1,5 +1,7 @@
-color: #42445a;
-background-color: #8cacd0;
-border: 3px solid #1C6EA4;
-text-shadow: 1px 2px 2px #ddeaee;
-box-shadow: 2px 2px 7px 1px #d7b5a1;
+.body{
+  color: #42445a;
+  background-color: #8cacd0;
+  border: 3px solid #1C6EA4;
+  text-shadow: 1px 2px 2px #ddeaee;
+  box-shadow: 2px 2px 7px 1px #d7b5a1;
+}
